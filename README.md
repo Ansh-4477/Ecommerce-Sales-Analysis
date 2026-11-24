@@ -1,2 +1,15 @@
-# Ecommerce-Sales-Analysis
-Analyzed e-commerce sales data to uncover business insights, track sales performance, identify top-performing products, and understand customer trends through data analysis and visualization.
+Total Sales
+
+Total Profit
+
+Total Orders
+
+Average Order Value
+
+Sales by Category
+
+Sales by Region
+
+Top-Selling Products
+
+Monthly Sales Trends
